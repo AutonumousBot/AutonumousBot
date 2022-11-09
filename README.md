@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AutonumousBot
-- 👀 I’m interested in learning to code Javascript, JQEUERY, CSS/HTML, PYTHON
-- 🌱 I’m currently learning Javascript/JQUERY
+- 👀 I’m interested in learning to code Javascript, JQEUERY, CSS/HTML, PYTHON, PHP
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ... AI.
 - 📫 dpaulfonseca@gmail.com
 
